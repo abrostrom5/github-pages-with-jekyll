@@ -1,10 +1,9 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Sea Level Rise and At-Risk Areas in Kauai, Hawaii
+author: Abigail Brostrom
+email: abrostrom@g.ucla.edu
+theme: minima
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This website provides an in-depth look at the at-risk areas on the island of Kauai, Hawaii, for the purpose of real-estate planning.
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
