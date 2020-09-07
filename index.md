@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Sea Level Rise and At-Risk Areas in Kauai, Hawaii
 
-I'm glad you are here. I plan to talk about ...
+An in depth look at future real-estate prospects
